@@ -8,7 +8,7 @@ If you are learning Power BI on your own and are looking for a place to **learn,
 
 ---
 
-## 🎯 Purpose of This Repository
+## Purpose of This Repository
 
 Learning Power BI through only videos or theory is not enough.
 
@@ -20,7 +20,7 @@ This repository brings together Power BI learning materials and practical resour
 
 ---
 
-## 📚 Repository Contents
+## Repository Contents
 
 The materials are organized into different sections:
 
